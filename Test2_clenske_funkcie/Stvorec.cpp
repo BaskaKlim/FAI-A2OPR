@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 
 class Stvorec {
@@ -14,7 +15,7 @@ public:
     }
 
     //funckia s parametrom pre zmenu vnutornych premennych triedy
-    double zmenDelkuStrany(double novaHodnota){
+    double ZmenDelkuStrany(double novaHodnota){
         return stranaA = novaHodnota;
     }
 
@@ -25,10 +26,11 @@ int main() {
     Stvorec stvorec;
     stvorec.stranaA = 10.5;
     stvorec.Obsah();
-    stvorec.zmenDelkuStrany(3.0);
+    stvorec.ZmenDelkuStrany(3.0);
     stvorec.Obvod();
 
     printf("Ctverec ma delku strany %lf", stvorec.stranaA);
     printf("\nCtverec ma obsah %lf a obvod %lf" , stvorec.Obsah(),stvorec.Obvod() );
 
 }
+*/

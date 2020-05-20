@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/barbaraklimekova/fai/A2OPR /Test2_clenske_funkcie"
+CMAKE_SOURCE_DIR = "/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/barbaraklimekova/fai/A2OPR /Test2_clenske_funkcie/cmake-build-debug"
+CMAKE_BINARY_DIR = "/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Test2_clenske_funkcie.dir/depend.make
@@ -59,29 +59,29 @@ include CMakeFiles/Test2_clenske_funkcie.dir/flags.make
 
 CMakeFiles/Test2_clenske_funkcie.dir/Stvorec.cpp.o: CMakeFiles/Test2_clenske_funkcie.dir/flags.make
 CMakeFiles/Test2_clenske_funkcie.dir/Stvorec.cpp.o: ../Stvorec.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/barbaraklimekova/fai/A2OPR /Test2_clenske_funkcie/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Test2_clenske_funkcie.dir/Stvorec.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Test2_clenske_funkcie.dir/Stvorec.cpp.o -c "/Users/barbaraklimekova/fai/A2OPR /Test2_clenske_funkcie/Stvorec.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Test2_clenske_funkcie.dir/Stvorec.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Test2_clenske_funkcie.dir/Stvorec.cpp.o -c "/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/Stvorec.cpp"
 
 CMakeFiles/Test2_clenske_funkcie.dir/Stvorec.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Test2_clenske_funkcie.dir/Stvorec.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/barbaraklimekova/fai/A2OPR /Test2_clenske_funkcie/Stvorec.cpp" > CMakeFiles/Test2_clenske_funkcie.dir/Stvorec.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/Stvorec.cpp" > CMakeFiles/Test2_clenske_funkcie.dir/Stvorec.cpp.i
 
 CMakeFiles/Test2_clenske_funkcie.dir/Stvorec.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Test2_clenske_funkcie.dir/Stvorec.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/barbaraklimekova/fai/A2OPR /Test2_clenske_funkcie/Stvorec.cpp" -o CMakeFiles/Test2_clenske_funkcie.dir/Stvorec.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/Stvorec.cpp" -o CMakeFiles/Test2_clenske_funkcie.dir/Stvorec.cpp.s
 
 CMakeFiles/Test2_clenske_funkcie.dir/Obdlznik.cpp.o: CMakeFiles/Test2_clenske_funkcie.dir/flags.make
 CMakeFiles/Test2_clenske_funkcie.dir/Obdlznik.cpp.o: ../Obdlznik.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/barbaraklimekova/fai/A2OPR /Test2_clenske_funkcie/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Test2_clenske_funkcie.dir/Obdlznik.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Test2_clenske_funkcie.dir/Obdlznik.cpp.o -c "/Users/barbaraklimekova/fai/A2OPR /Test2_clenske_funkcie/Obdlznik.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Test2_clenske_funkcie.dir/Obdlznik.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Test2_clenske_funkcie.dir/Obdlznik.cpp.o -c "/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/Obdlznik.cpp"
 
 CMakeFiles/Test2_clenske_funkcie.dir/Obdlznik.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Test2_clenske_funkcie.dir/Obdlznik.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/barbaraklimekova/fai/A2OPR /Test2_clenske_funkcie/Obdlznik.cpp" > CMakeFiles/Test2_clenske_funkcie.dir/Obdlznik.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/Obdlznik.cpp" > CMakeFiles/Test2_clenske_funkcie.dir/Obdlznik.cpp.i
 
 CMakeFiles/Test2_clenske_funkcie.dir/Obdlznik.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Test2_clenske_funkcie.dir/Obdlznik.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/barbaraklimekova/fai/A2OPR /Test2_clenske_funkcie/Obdlznik.cpp" -o CMakeFiles/Test2_clenske_funkcie.dir/Obdlznik.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/Obdlznik.cpp" -o CMakeFiles/Test2_clenske_funkcie.dir/Obdlznik.cpp.s
 
 # Object files for target Test2_clenske_funkcie
 Test2_clenske_funkcie_OBJECTS = \
@@ -95,7 +95,7 @@ Test2_clenske_funkcie: CMakeFiles/Test2_clenske_funkcie.dir/Stvorec.cpp.o
 Test2_clenske_funkcie: CMakeFiles/Test2_clenske_funkcie.dir/Obdlznik.cpp.o
 Test2_clenske_funkcie: CMakeFiles/Test2_clenske_funkcie.dir/build.make
 Test2_clenske_funkcie: CMakeFiles/Test2_clenske_funkcie.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/barbaraklimekova/fai/A2OPR /Test2_clenske_funkcie/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Test2_clenske_funkcie"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Test2_clenske_funkcie"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Test2_clenske_funkcie.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -108,6 +108,6 @@ CMakeFiles/Test2_clenske_funkcie.dir/clean:
 .PHONY : CMakeFiles/Test2_clenske_funkcie.dir/clean
 
 CMakeFiles/Test2_clenske_funkcie.dir/depend:
-	cd "/Users/barbaraklimekova/fai/A2OPR /Test2_clenske_funkcie/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/barbaraklimekova/fai/A2OPR /Test2_clenske_funkcie" "/Users/barbaraklimekova/fai/A2OPR /Test2_clenske_funkcie" "/Users/barbaraklimekova/fai/A2OPR /Test2_clenske_funkcie/cmake-build-debug" "/Users/barbaraklimekova/fai/A2OPR /Test2_clenske_funkcie/cmake-build-debug" "/Users/barbaraklimekova/fai/A2OPR /Test2_clenske_funkcie/cmake-build-debug/CMakeFiles/Test2_clenske_funkcie.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie" "/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie" "/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/cmake-build-debug" "/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/cmake-build-debug" "/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/cmake-build-debug/CMakeFiles/Test2_clenske_funkcie.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Test2_clenske_funkcie.dir/depend
 

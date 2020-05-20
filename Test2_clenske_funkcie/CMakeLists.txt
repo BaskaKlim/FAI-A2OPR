@@ -3,4 +3,4 @@ project(Test2_clenske_funkcie)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Test2_clenske_funkcie Stvorec.cpp)
+add_executable(Test2_clenske_funkcie Stvorec.cpp Obdlznik.cpp)
