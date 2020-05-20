@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.16)
+project(A2OPR_Test4_konstruktor_member_inicializer_list)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(A2OPR_Test4_konstruktor_member_inicializer_list main.cpp)
