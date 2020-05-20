@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/barbaraklimekova/fai/c++/A2OPR Test4_konstruktor_member_inicializer_list"
+CMAKE_SOURCE_DIR = "/Users/barbaraklimekova/fai/c++/A2OPR /Test4_konstruktor_member_inicializer_list"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/barbaraklimekova/fai/c++/A2OPR Test4_konstruktor_member_inicializer_list/cmake-build-debug"
+CMAKE_BINARY_DIR = "/Users/barbaraklimekova/fai/c++/A2OPR /Test4_konstruktor_member_inicializer_list/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/flags.mak
 
 CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/main.cpp.o: CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/flags.make
 CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/barbaraklimekova/fai/c++/A2OPR Test4_konstruktor_member_inicializer_list/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/main.cpp.o -c "/Users/barbaraklimekova/fai/c++/A2OPR Test4_konstruktor_member_inicializer_list/main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/barbaraklimekova/fai/c++/A2OPR /Test4_konstruktor_member_inicializer_list/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/main.cpp.o -c "/Users/barbaraklimekova/fai/c++/A2OPR /Test4_konstruktor_member_inicializer_list/main.cpp"
 
 CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/barbaraklimekova/fai/c++/A2OPR Test4_konstruktor_member_inicializer_list/main.cpp" > CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/barbaraklimekova/fai/c++/A2OPR /Test4_konstruktor_member_inicializer_list/main.cpp" > CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/main.cpp.i
 
 CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/barbaraklimekova/fai/c++/A2OPR Test4_konstruktor_member_inicializer_list/main.cpp" -o CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/barbaraklimekova/fai/c++/A2OPR /Test4_konstruktor_member_inicializer_list/main.cpp" -o CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/main.cpp.s
 
 # Object files for target A2OPR_Test4_konstruktor_member_inicializer_list
 A2OPR_Test4_konstruktor_member_inicializer_list_OBJECTS = \
@@ -80,7 +80,7 @@ A2OPR_Test4_konstruktor_member_inicializer_list_EXTERNAL_OBJECTS =
 A2OPR_Test4_konstruktor_member_inicializer_list: CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/main.cpp.o
 A2OPR_Test4_konstruktor_member_inicializer_list: CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/build.make
 A2OPR_Test4_konstruktor_member_inicializer_list: CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/barbaraklimekova/fai/c++/A2OPR Test4_konstruktor_member_inicializer_list/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable A2OPR_Test4_konstruktor_member_inicializer_list"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/barbaraklimekova/fai/c++/A2OPR /Test4_konstruktor_member_inicializer_list/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable A2OPR_Test4_konstruktor_member_inicializer_list"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -93,6 +93,6 @@ CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/clean:
 .PHONY : CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/clean
 
 CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/depend:
-	cd "/Users/barbaraklimekova/fai/c++/A2OPR Test4_konstruktor_member_inicializer_list/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/barbaraklimekova/fai/c++/A2OPR Test4_konstruktor_member_inicializer_list" "/Users/barbaraklimekova/fai/c++/A2OPR Test4_konstruktor_member_inicializer_list" "/Users/barbaraklimekova/fai/c++/A2OPR Test4_konstruktor_member_inicializer_list/cmake-build-debug" "/Users/barbaraklimekova/fai/c++/A2OPR Test4_konstruktor_member_inicializer_list/cmake-build-debug" "/Users/barbaraklimekova/fai/c++/A2OPR Test4_konstruktor_member_inicializer_list/cmake-build-debug/CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/Users/barbaraklimekova/fai/c++/A2OPR /Test4_konstruktor_member_inicializer_list/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/barbaraklimekova/fai/c++/A2OPR /Test4_konstruktor_member_inicializer_list" "/Users/barbaraklimekova/fai/c++/A2OPR /Test4_konstruktor_member_inicializer_list" "/Users/barbaraklimekova/fai/c++/A2OPR /Test4_konstruktor_member_inicializer_list/cmake-build-debug" "/Users/barbaraklimekova/fai/c++/A2OPR /Test4_konstruktor_member_inicializer_list/cmake-build-debug" "/Users/barbaraklimekova/fai/c++/A2OPR /Test4_konstruktor_member_inicializer_list/cmake-build-debug/CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/A2OPR_Test4_konstruktor_member_inicializer_list.dir/depend
 

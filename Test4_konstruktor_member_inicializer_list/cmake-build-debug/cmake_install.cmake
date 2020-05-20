@@ -1,4 +1,4 @@
-# Install script for directory: /Users/barbaraklimekova/fai/c++/A2OPR Test4_konstruktor_member_inicializer_list
+# Install script for directory: /Users/barbaraklimekova/fai/c++/A2OPR /Test4_konstruktor_member_inicializer_list
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/barbaraklimekova/fai/c++/A2OPR Test4_konstruktor_member_inicializer_list/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/barbaraklimekova/fai/c++/A2OPR /Test4_konstruktor_member_inicializer_list/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
