@@ -1,1 +1,1 @@
-# fai-c-
+# predmet A2OPR UTB IRT
