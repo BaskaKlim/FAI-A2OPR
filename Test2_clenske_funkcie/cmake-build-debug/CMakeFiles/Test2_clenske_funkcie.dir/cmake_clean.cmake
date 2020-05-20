@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Test2_clenske_funkcie.dir/Main.cpp.o"
   "CMakeFiles/Test2_clenske_funkcie.dir/Obdlznik.cpp.o"
   "CMakeFiles/Test2_clenske_funkcie.dir/Stvorec.cpp.o"
   "Test2_clenske_funkcie"

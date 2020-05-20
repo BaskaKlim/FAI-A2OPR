@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/Main.cpp">
+			<Option target="Test2_clenske_funkcie"/>
+		</Unit>
 		<Unit filename="/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/Obdlznik.cpp">
 			<Option target="Test2_clenske_funkcie"/>
 		</Unit>

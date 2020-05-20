@@ -6,6 +6,20 @@
 
 #IncludeRegexTransform: 
 
+/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/Main.cpp
+stdio.h
+-
+Stvorec.cpp
+/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/Stvorec.cpp
+Obdlznik.cpp
+/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/Obdlznik.cpp
+
+/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/Obdlznik.cpp
+iostream
+-
+stdio.h
+-
+
 /Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/Stvorec.cpp
 iostream
 -

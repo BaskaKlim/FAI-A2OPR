@@ -1,4 +1,4 @@
-/*
+
 #include <iostream>
 
 class Stvorec {
@@ -20,17 +20,3 @@ public:
     }
 
 };
-
-int main() {
-
-    Stvorec stvorec;
-    stvorec.stranaA = 10.5;
-    stvorec.Obsah();
-    stvorec.ZmenDelkuStrany(3.0);
-    stvorec.Obvod();
-
-    printf("Ctverec ma delku strany %lf", stvorec.stranaA);
-    printf("\nCtverec ma obsah %lf a obvod %lf" , stvorec.Obsah(),stvorec.Obvod() );
-
-}
-*/

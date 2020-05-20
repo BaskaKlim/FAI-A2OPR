@@ -22,17 +22,3 @@ public:
         this->stranaB = stranaB;
     }
 };
-
-int main() {
-    Obldznik obldznik;
-    obldznik.stranaA = 4.0;
-    obldznik.stranaB = 2.5;
-    double obvod = obldznik.Obvod();
-    double obsah = obldznik.Obsah();
-    obldznik.ZmenRozmery(3.0, 9.0);
-    printf("\nObdznik ma obsah %lf a obvod %lf", obsah, obvod);
-
-
-}
-
-

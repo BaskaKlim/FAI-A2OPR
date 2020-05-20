@@ -123,6 +123,33 @@ Test2_clenske_funkcie/fast:
 	$(MAKE) -f CMakeFiles/Test2_clenske_funkcie.dir/build.make CMakeFiles/Test2_clenske_funkcie.dir/build
 .PHONY : Test2_clenske_funkcie/fast
 
+Main.o: Main.cpp.o
+
+.PHONY : Main.o
+
+# target to build an object file
+Main.cpp.o:
+	$(MAKE) -f CMakeFiles/Test2_clenske_funkcie.dir/build.make CMakeFiles/Test2_clenske_funkcie.dir/Main.cpp.o
+.PHONY : Main.cpp.o
+
+Main.i: Main.cpp.i
+
+.PHONY : Main.i
+
+# target to preprocess a source file
+Main.cpp.i:
+	$(MAKE) -f CMakeFiles/Test2_clenske_funkcie.dir/build.make CMakeFiles/Test2_clenske_funkcie.dir/Main.cpp.i
+.PHONY : Main.cpp.i
+
+Main.s: Main.cpp.s
+
+.PHONY : Main.s
+
+# target to generate assembly for a file
+Main.cpp.s:
+	$(MAKE) -f CMakeFiles/Test2_clenske_funkcie.dir/build.make CMakeFiles/Test2_clenske_funkcie.dir/Main.cpp.s
+.PHONY : Main.cpp.s
+
 Obdlznik.o: Obdlznik.cpp.o
 
 .PHONY : Obdlznik.o
@@ -186,6 +213,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Test2_clenske_funkcie"
+	@echo "... Main.o"
+	@echo "... Main.i"
+	@echo "... Main.s"
 	@echo "... Obdlznik.o"
 	@echo "... Obdlznik.i"
 	@echo "... Obdlznik.s"

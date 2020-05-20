@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/Main.cpp" "/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/cmake-build-debug/CMakeFiles/Test2_clenske_funkcie.dir/Main.cpp.o"
   "/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/Obdlznik.cpp" "/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/cmake-build-debug/CMakeFiles/Test2_clenske_funkcie.dir/Obdlznik.cpp.o"
   "/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/Stvorec.cpp" "/Users/barbaraklimekova/fai/c++/A2OPR /Test2_clenske_funkcie/cmake-build-debug/CMakeFiles/Test2_clenske_funkcie.dir/Stvorec.cpp.o"
   )
