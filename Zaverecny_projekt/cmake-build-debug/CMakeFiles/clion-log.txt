@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/barbaraklimekova/fai/c++/A2OPR/Test5_pole_s_operátormi_new&delete
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/barbaraklimekova/fai/c++/A2OPR /Zaverecny_projekt"
 -- The C compiler identification is AppleClang 11.0.0.11000033
 -- The CXX compiler identification is AppleClang 11.0.0.11000033
 -- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc
@@ -13,11 +13,6 @@
 -- Detecting CXX compiler ABI info - done
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
-CMake Error at CMakeLists.txt:6 (add_executable):
-  The target name "Test5_pole_s_operátormi_new_delete" is reserved or not
-  valid for certain CMake features, such as generator expressions, and may
-  result in undefined behavior.
-
-
--- Configuring incomplete, errors occurred!
-See also "/Users/barbaraklimekova/fai/c++/A2OPR/Test5_pole_s_operátormi_new&delete/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/barbaraklimekova/fai/c++/A2OPR /Zaverecny_projekt/cmake-build-debug

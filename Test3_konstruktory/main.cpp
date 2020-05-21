@@ -5,6 +5,7 @@ class Square {
 public:
     double a;
 
+    //pretazenie konstruktorov, oba s rovnakym nazvom ale s inym poctom parametrov
     Square() {
         a = 0.0;
     }

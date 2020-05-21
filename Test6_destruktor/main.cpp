@@ -20,7 +20,7 @@ public:
 };
 
 int main() {
-    //deklaracia a inicializacia pola s velkostou 3 
+    //deklaracia a inicializacia pola s velkostou 3
     Array array(3);
 
 }
