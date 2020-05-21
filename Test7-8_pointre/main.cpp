@@ -4,6 +4,7 @@
 //TODO: Nejprve si definujeme třídu Pole která si v konstruktoru alokuje paměť.
 
 int main() {
+    
     //adresny operator alebo aj tzv operator referencie
     int x = 2;
     int* p = &x;
@@ -19,6 +20,5 @@ int main() {
     ++*p2;
     (*p2)++;
 
-    printf("%p,%p,%p ", &p,&p1,&p2);
-    printf("\n%d,%d,%d ", p,p1,p2);
+    printf("%p,%p,%p ", p,p1,p2);
 }
