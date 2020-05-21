@@ -1,0 +1,3 @@
+/Users/barbaraklimekova/fai/c++/A2OPR/Test5_poleSoperatorm_newAndDelete/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/barbaraklimekova/fai/c++/A2OPR/Test5_poleSoperatorm_newAndDelete/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/barbaraklimekova/fai/c++/A2OPR/Test5_poleSoperatorm_newAndDelete/cmake-build-debug/CMakeFiles/Test5_poleSoperatorm_newAndDelete.dir
