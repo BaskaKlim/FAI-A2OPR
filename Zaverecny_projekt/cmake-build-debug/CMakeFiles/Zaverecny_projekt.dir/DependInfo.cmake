@@ -4,7 +4,6 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/barbaraklimekova/fai/c++/A2OPR /Zaverecny_projekt/Uloha1_Vykreslenie_cvercov.cpp" "/Users/barbaraklimekova/fai/c++/A2OPR /Zaverecny_projekt/cmake-build-debug/CMakeFiles/Zaverecny_projekt.dir/Uloha1_Vykreslenie_cvercov.cpp.o"
   "/Users/barbaraklimekova/fai/c++/A2OPR /Zaverecny_projekt/main.cpp" "/Users/barbaraklimekova/fai/c++/A2OPR /Zaverecny_projekt/cmake-build-debug/CMakeFiles/Zaverecny_projekt.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

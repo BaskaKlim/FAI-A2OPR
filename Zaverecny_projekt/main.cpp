@@ -28,17 +28,20 @@ public:
 
 };
 
+void DrawSquare(int side, char drawChar, char emptyChar) {
+    string fullLine(side, drawChar);
+    cout << fullLine << endl;
+    for (int row = 1; row < (side - 1); row++) {
+        string nonFullLine(side, emptyChar);
+        nonFullLine[0] = drawChar;
+        nonFullLine[side - 1] = drawChar;
+        cout << nonFullLine << endl;
+    }
+    cout << fullLine << endl;
+}
+
 int main() {
     Stvorec s1(4, 200, 200);
+    DrawSquare(s1.stranaA, '.', ' ');
 
-    string line(s1.stranaA, '*');
-    string sideline(s1.stranaA, ' ');
-    sideline[0] = '*';
-    sideline[s1.stranaA-1] = '*';
-
-    cout << line << endl;
-    for (int i = 0; i < s1.stranaA - 2; i++) {
-        cout << sideline << endl;
-    }
-    cout << line << endl;
 }

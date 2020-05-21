@@ -1,5 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Zaverecny_projekt.dir/Uloha1_Vykreslenie_cvercov.cpp.o"
   "CMakeFiles/Zaverecny_projekt.dir/main.cpp.o"
   "Zaverecny_projekt"
   "Zaverecny_projekt.pdb"

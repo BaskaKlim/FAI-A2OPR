@@ -80,9 +80,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/barbaraklimekova/fai/c++/A2OPR /Zaverecny_projekt/Uloha1_Vykreslenie_cvercov.cpp">
-			<Option target="Zaverecny_projekt"/>
-		</Unit>
 		<Unit filename="/Users/barbaraklimekova/fai/c++/A2OPR /Zaverecny_projekt/main.cpp">
 			<Option target="Zaverecny_projekt"/>
 		</Unit>

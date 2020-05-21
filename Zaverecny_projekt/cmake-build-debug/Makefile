@@ -123,33 +123,6 @@ Zaverecny_projekt/fast:
 	$(MAKE) -f CMakeFiles/Zaverecny_projekt.dir/build.make CMakeFiles/Zaverecny_projekt.dir/build
 .PHONY : Zaverecny_projekt/fast
 
-Uloha1_Vykreslenie_cvercov.o: Uloha1_Vykreslenie_cvercov.cpp.o
-
-.PHONY : Uloha1_Vykreslenie_cvercov.o
-
-# target to build an object file
-Uloha1_Vykreslenie_cvercov.cpp.o:
-	$(MAKE) -f CMakeFiles/Zaverecny_projekt.dir/build.make CMakeFiles/Zaverecny_projekt.dir/Uloha1_Vykreslenie_cvercov.cpp.o
-.PHONY : Uloha1_Vykreslenie_cvercov.cpp.o
-
-Uloha1_Vykreslenie_cvercov.i: Uloha1_Vykreslenie_cvercov.cpp.i
-
-.PHONY : Uloha1_Vykreslenie_cvercov.i
-
-# target to preprocess a source file
-Uloha1_Vykreslenie_cvercov.cpp.i:
-	$(MAKE) -f CMakeFiles/Zaverecny_projekt.dir/build.make CMakeFiles/Zaverecny_projekt.dir/Uloha1_Vykreslenie_cvercov.cpp.i
-.PHONY : Uloha1_Vykreslenie_cvercov.cpp.i
-
-Uloha1_Vykreslenie_cvercov.s: Uloha1_Vykreslenie_cvercov.cpp.s
-
-.PHONY : Uloha1_Vykreslenie_cvercov.s
-
-# target to generate assembly for a file
-Uloha1_Vykreslenie_cvercov.cpp.s:
-	$(MAKE) -f CMakeFiles/Zaverecny_projekt.dir/build.make CMakeFiles/Zaverecny_projekt.dir/Uloha1_Vykreslenie_cvercov.cpp.s
-.PHONY : Uloha1_Vykreslenie_cvercov.cpp.s
-
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -186,9 +159,6 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Zaverecny_projekt"
-	@echo "... Uloha1_Vykreslenie_cvercov.o"
-	@echo "... Uloha1_Vykreslenie_cvercov.i"
-	@echo "... Uloha1_Vykreslenie_cvercov.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
