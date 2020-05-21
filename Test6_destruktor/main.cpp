@@ -13,12 +13,14 @@ public:
         data = new int[size];
     }
 
-    // desktuktor
+    // desktuktor, ktory se potom v následujícím příkaldu zavolá, až přestane existovat proměnná array, což je na konci funkce main
     ~Array() {
         delete[] data;
     }
 };
 
 int main() {
+    //deklaracia a inicializacia pola s velkostou 3 
+    Array array(3);
 
 }
