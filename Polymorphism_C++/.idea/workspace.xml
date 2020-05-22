@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39d3e934-d7f6-42fa-815a-fc2a820654e6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/.idea/Zaverecny_projekt.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/3.16.5/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/3.16.5/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/3.16.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/3.16.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/3.16.5/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/Zaverecny_projekt.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/Zaverecny_projekt.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/Zaverecny_projekt.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/Zaverecny_projekt.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/Zaverecny_projekt.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/Zaverecny_projekt.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/Zaverecny_projekt.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/Zaverecny_projekt.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/Zaverecny_projekt.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/Zaverecny_projekt.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/Zaverecny_projekt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/Zaverecny_projekt.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zaverecny_projekt/main.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cCtJbJjb10MfFZ2wGZvlEEZ6N7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39d3e934-d7f6-42fa-815a-fc2a820654e6" name="Default Changelist" comment="" />
+      <created>1590044331275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590044331275</updated>
+      <workItem from="1590044333335" duration="2473000" />
+      <workItem from="1590081564760" duration="8115000" />
+      <workItem from="1590095407659" duration="7181000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom" timestamp="1590141329509">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1590141329509" />
+    <state width="1358" height="199" key="GridCell.Tab.0.center" timestamp="1590141329507">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1590141329507" />
+    <state width="1358" height="199" key="GridCell.Tab.0.left" timestamp="1590141329507">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1590141329507" />
+    <state width="1358" height="199" key="GridCell.Tab.0.right" timestamp="1590141329508">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1590141329508" />
+    <state width="1358" height="248" key="GridCell.Tab.1.bottom" timestamp="1590095338305">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="248" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1590095338305" />
+    <state width="1358" height="248" key="GridCell.Tab.1.center" timestamp="1590095338303">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="248" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1590095338303" />
+    <state width="1358" height="248" key="GridCell.Tab.1.left" timestamp="1590095338302">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="248" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1590095338302" />
+    <state width="1358" height="248" key="GridCell.Tab.1.right" timestamp="1590095338304">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="248" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1590095338304" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1590139549951">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.23.1440.822@0.23.1440.822" timestamp="1590139549951" />
+  </component>
+</project>
