@@ -24,4 +24,18 @@ int main() {
     dx /= d;
     dy /= d;
 
+// board for painting 
+    constexpr int numberOfRow = 30;
+    constexpr int numberOfColumn = 30;
+
+    char board[numberOfRow][numberOfColumn];
+
+    for(size_t i =0; i< numberOfRow; i++)
+    {
+        for (size_t j =0; j< numberOfColumn; j++)
+        {
+            board[i][j]= '.';
+        }
+    }
+
 }
