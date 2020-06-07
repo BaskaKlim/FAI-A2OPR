@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-
+using namespace std;
 
 struct Position {
     double x;
@@ -11,15 +11,15 @@ struct Position {
 };
 
 int main() {
-    Position p1(2, 3);
-    Position p2(5, 7);
+    Position p1(5, 8);
+    Position p2(5, 5);
 
 //line and its properties
     double dx = p2.x - p1.x;
     double dy = p2.y - p1.y;
 
 //lenght of line  = max rozdiel bodov (ich absolutnych hodnot)
-    double d = std::fmaxf(std::abs(dx), std::abs(dx));
+    double d = fmaxf(abs(dx), abs(dy));
 
     dx /= d;
     dy /= d;
@@ -32,7 +32,7 @@ int main() {
 
     for (size_t i = 0; i < numberOfRow; i++) {
         for (size_t j = 0; j < numberOfColumn; j++) {
-            board[i][j] = '.';
+            board[i][j] = '-';
         }
     }
 
@@ -41,8 +41,8 @@ int main() {
     double y = p1.y;
 
     for (int i = 0; i <= d; i++) {
-        int ix = (int) std::round(x);
-        int iy = (int) std::round(y);
+        int ix = (int) round(x);
+        int iy = (int) round(y);
 
         //
         board[iy][ix] = 'x';
@@ -50,7 +50,7 @@ int main() {
         x+= dx;
         y+= dy;
     }
-
+//line 
     for(size_t i = 0; i <numberOfRow; i++)
     {
         for(size_t j = 0; i <numberOfColumn; j++)
